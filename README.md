@@ -1,4 +1,4 @@
-# CYBERDOSTI_Project_1
+# PASSWORD GENERATOR
 A very basic python code which helps you generate password on your requirements for length, alphabets, numbers and special characters
 
 ## Password Generator
